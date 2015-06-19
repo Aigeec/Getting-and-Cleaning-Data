@@ -1,6 +1,8 @@
 README
 ======
 
+This readme is about the run_analysis.R R script.
+
 The script requires this dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip to be unzip into a "UCI HAR Dataset" folder in the working directory. The script should be run from the same location as this folder. Please see README.md for more information on the script itself.
 
 The aim of this script is to take this dataset and assemble it into a single "tidy" dataset.
